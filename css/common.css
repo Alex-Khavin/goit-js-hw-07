@@ -32,5 +32,12 @@ ul {
   height: auto;
 }
 
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  
+}
+
 
 
